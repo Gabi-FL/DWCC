@@ -1,6 +1,6 @@
 // 1. SELECCIÓN DE ELEMENTOS
 // Usa getElementById, querySelector, querySelectorAll, getElementsByClassName
-
+const nombre = document.getElementById()
 
 // 2. FUNCIONES AUXILIARES
 // Función para crear una nueva tarea (usa createElement, appendChild, setAttribute)
