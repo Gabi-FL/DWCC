@@ -1,7 +1,7 @@
 ### Parte 1: Selección de elementos
-- [ ] Usa `getElementById()` para seleccionar: nombre, profesión, descripción, email, teléfono, ciudad, info-extra, y mensaje-footer
-- [ ] Usa `querySelector()` para seleccionar al menos 3 botones
-- [ ] Usa `querySelectorAll()` para seleccionar todas las habilidades
+- [x] Usa `getElementById()` para seleccionar: nombre, profesión, descripción, email, teléfono, ciudad, info-extra, y mensaje-footer
+- [x] Usa `querySelector()` para seleccionar al menos 3 botones
+- [x] Usa `querySelectorAll()` para seleccionar todas las habilidades
 
 ### Parte 2: Cambiar textos
 - [ ] Botón "Cambiar Nombre": usa `prompt()` para pedir un nombre y actualízalo con `textContent`
