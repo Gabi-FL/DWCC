@@ -101,6 +101,11 @@ function inicializarEventosHabilidades() {
       habilidad.remove();
     });
   });
+  
+}
+
+function contarHabilidades () {
+ 
 }
 
 ///////////////////// EVENT LISTENERS ////////////////////
@@ -134,5 +139,6 @@ botonInfoExtra.addEventListener("click", function () {
     botonInfoExtra.textContent = "Mostrar menos información";
   }
 });
+inicializarEventosHabilidades();
 
 ///////////////////
